@@ -37,7 +37,7 @@ Both the generator and discriminator networks are trained simultaneously in an a
 - Inspiration for GAN architecture and training strategies from research papers and online tutorials.
 - Fashion MNIST dataset provided by TensorFlow Datasets.
 
-- ## Results
+## Results
 
 Sample generated fashion images and training logs are available in the `images` and `logs` directories, respectively.
 
